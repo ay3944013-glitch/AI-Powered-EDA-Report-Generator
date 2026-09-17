@@ -416,7 +416,7 @@ This project demonstrates practical skills in:
 
 ## 👨‍💻 Author
 
-**Ayush**
+**Ankit**
 
 Aspiring Data Analyst passionate about Data Analytics, Python, SQL, Business Intelligence, and AI-powered analytical solutions.
 
